@@ -1,0 +1,15 @@
+.item{
+  padding: 0;
+  color: black;
+}
+.item-button {
+  background: #ffffff;
+  width: 100%;
+  display: flex;
+  justify-content: space-between !important;
+
+  &:hover {
+    background: #e8dede;
+
+  }
+}
